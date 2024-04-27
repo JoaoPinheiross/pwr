@@ -71,7 +71,7 @@ nav {
 
 /* main banner */
 .main-banner {
-  background-image: url("../img/mainbanner.png");
+  background-image: url("../img/fundo_taverna.png");
   background-size: cover;
   background-position: center;
   padding: 10rem 0;
@@ -124,18 +124,6 @@ nav {
 .fas {
   font-size: 60px;
   margin-bottom: 15px;
-}
-
-.fa-shield-alt {
-  color: #2cc76a;
-}
-
-.fa-rocket {
-  color: #ef3f29;
-}
-
-.fa-comments {
-  color: #ef8f29;
 }
 
 .services-container h3 {
