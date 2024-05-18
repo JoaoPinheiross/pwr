@@ -40,7 +40,6 @@ nav a {
     background-image: url("../img/cidade_verde01.png");
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
     height: 40vh;
 
     padding: 25vh;
